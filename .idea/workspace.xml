@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ae18ae0-01de-4662-8dae-45eebe7dcecf" name="Changes" comment="Loops">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Evaluaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Evaluaciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719080192340</updated>
       <workItem from="1719080193325" duration="7155000" />
-      <workItem from="1719117220349" duration="5776000" />
+      <workItem from="1719117220349" duration="6076000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -95,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719122056287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Loops">
+      <option name="closed" value="true" />
+      <created>1719123326948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719123326948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
