@@ -11,10 +11,12 @@ public class Decisiones {
         } else {
             System.out.println("Peliculas Retro que aún vale la pena ver");
         }
-            if(incluidoEnElPlan || tipoPlan.equals("plus")){
+            if(incluidoEnElPlan && tipoPlan.equals("plus")){
                 System.out.println("Disfrute de su pelicula");
             } else {
                 System.out.println("Pelicula no disponible para su plan actual");
             }
+
+
     }
 }
