@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae18ae0-01de-4662-8dae-45eebe7dcecf" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/java/src/Lectura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Loops.java" afterDir="false" />
+    <list default="true" id="7ae18ae0-01de-4662-8dae-45eebe7dcecf" name="Changes" comment="Loops">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Decisiones.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Decisiones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java" />
   </component>
   <component name="ProjectId" id="2iFJ2ZdIc9kY3bBuhE7kvLygKik" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719080192340</updated>
       <workItem from="1719080193325" duration="7155000" />
-      <workItem from="1719117220349" duration="4444000" />
+      <workItem from="1719117220349" duration="5776000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719118734687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Loops">
+      <option name="closed" value="true" />
+      <created>1719122056287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719122056287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +114,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyFirstJavaProgram$Evaluaciones.ic" NAME="Evaluaciones Coverage Results" MODIFIED="1719122747803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
