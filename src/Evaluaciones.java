@@ -16,6 +16,6 @@ public class Evaluaciones {
                 totalEvaluaciones ++;
             }
         }
-        System.out.println("La media de Evaluaciones para MATRIX es: " + mediaEvaluaciones / totalEvaluaciones);
+        System.out.println("La media de Evaluaciones para (MATRIX) es: " + mediaEvaluaciones / totalEvaluaciones);
         }
 }
