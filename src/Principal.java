@@ -15,7 +15,7 @@ public class Principal {
 
         //System.out.println("Mi otra pelicula es: " + otraPelicula.nombre);
         //System.out.println("Fecha de lanzamiento: " + otraPelicula.fechaDeLanzamiento);
-
+//
         Pelicula otraPelicula = new Pelicula();
         otraPelicula.nombre = "Matrix";
         otraPelicula.fechaDeLanzamiento = 1998;
